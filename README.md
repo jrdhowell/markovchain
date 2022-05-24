@@ -2,8 +2,8 @@
 
 Given an array of arrays (hereinafter, matrix) of equal dimensions where each row represents a state and the 
 columns represent a step to that state as an argument for function solution(M), return an array
-with the probabilities of ending in each end state when initial state is the first row, by the fraction numerators and the denominator 
-in the final entry of the array. Note: End states will have no entries representing no steps will be taken.
+with the probabilities of ending in each end state when the initial state is the first row, by the fraction numerators and the common denominator 
+as the final entry of the array. Note: End states will have no entries representing no steps can be taken. Initial state and other step states are guaranteed to get to an end state.
 
 For example, given a matrix:
 
