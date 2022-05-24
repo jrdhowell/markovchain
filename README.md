@@ -14,7 +14,7 @@ s3: 0 0 0 0 0 0 <br/>
 s4: 0 0 0 0 0 0 <br/>
 s5: 0 0 0 0 0 0 <br/>
 
-Starting in the initial state s0, there is a fifty percent chance of going to s1 and fifty percent chance going to s4
+Starting in the initial state s0, there is a fifty percent chance of going to s1 and fifty percent chance going to s5
 The end states are s2, s3, s4 and s5.
 
 By following possible paths and calculating the probabilities of ending on each end state, we see:<br/>
