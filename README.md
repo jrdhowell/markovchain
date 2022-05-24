@@ -17,11 +17,11 @@ s5: 0 0 0 0 0 0 <br/>
 Starting in the initial state s0, there is a fifty percent chance of going to s1 and fifty percent chance going to s4
 The end states are s2, s3, s4 and s5.
 
-By following possible paths and calculating the probabilities of ending on each end state, we see:
-s2: 0 (s2 is an end state that will not be reached)
-s3: 3/14
-s4: 1/7
-s5: 9/14
+By following possible paths and calculating the probabilities of ending on each end state, we see:<br/>
+s2: 0 (s2 is an end state that will not be reached)<br/>
+s3: 3/14<br/>
+s4: 1/7<br/>
+s5: 9/14<br/>
 
 And our function will return:
 [0, 3, 2, 9, 14]
