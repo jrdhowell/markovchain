@@ -1,4 +1,4 @@
-# Markov Chain Coding Challenge: Overiew
+# Markov Chain Coding Challenge: Overview
 
 Given an array of arrays (hereinafter, matrix) of equal dimensions where each row represents a state and the 
 columns represent a step to that state as an argument for function solution(M), return an array
