@@ -7,7 +7,7 @@ def solution(M):
   endstate = []
   stepstate = []
   
-  #find endstates and stepstates
+  #find endstates and stepstates using for-loop
   #endstate and stepstate will keep row numbers 
  
   for y in range(len(M)):
@@ -55,8 +55,8 @@ def solution(M):
 
 
   #function mul(a,b)
-  #takes two [1]x[2] arrays as input representing fractions
-  #returns one [1]x[2] array equaling the product of the fractions, not reduced
+  #takes two [1]x[2] array as input representing fractions
+  #returns one [1]x[2] array equaling the product of the fractions
   def mul(a, b):
     return([a[0]*b[0], a[1]*b[1]])
   
