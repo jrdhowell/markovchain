@@ -178,7 +178,7 @@ def solution(M):
   
   
   #Making matrix (array of arrays) N
-  #matrix N converts original matrix result counts into probably counts reprepesented as fractions in [1]x[2] arrays
+  #matrix N converts original matrix result counts into probability counts reprepesented as fractions in [1]x[2] arrays
   for x in range(len(M)):
     tmp = []
     for y in range(len(M[x])):
